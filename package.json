@@ -11,5 +11,9 @@
   "dependencies": {
     "@shieldsbetter/inefice-client-core": "0.0.3",
     "ws": "^6.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hamptonsmith/inefice-client-ws.git"
   }
 }
