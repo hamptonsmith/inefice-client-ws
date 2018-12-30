@@ -1,0 +1,15 @@
+{
+  "name": "@shieldsbetter/inefice-client-ws",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hampton Smith",
+  "license": "ISC",
+  "dependencies": {
+    "@shieldsbetter/inefice-client-core": "0.0.3",
+    "ws": "^6.1.2"
+  }
+}
